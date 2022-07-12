@@ -1,0 +1,153 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Chassis table Corbu",
+			"id": "22613fd0-d8c3-42ae-a5be-50c69f9b0984",
+			"uniqueId": 61,
+			"type": "Mesh",
+			"position": [
+				-10.6522541,
+				0.8705063,
+				-0.000760531053
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"parentId": "59185c1e-ff2d-48af-ac4e-32e5e1de9d0a",
+			"isUnIndexed": false,
+			"geometryId": "d2e20a06-f2a8-48f7-9cc8-b2933f827e16",
+			"subMeshes": null,
+			"materialId": "6465b02f-7e3a-407d-a178-ab9c95f12815",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 10.652254104614258,
+					"13": -0.8705062866210938,
+					"14": 0.0007605310529470444,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "fdb13fb7-e4ec-4479-bba7-e88b80204b55",
+					"name": "Chassis table Corbu",
+					"sceneFileName": "espilit.babylon"
+				},
+				"isPickable": true
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/d2e20a06-f2a8-48f7-9cc8-b2933f827e16.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				23.762685775756836,
+				3.25813889503479,
+				14.364994049072266
+			],
+			"boundingBoxMinimum": [
+				-0.018659429624676704,
+				-0.8649441599845886,
+				-3.6353726387023926
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 4566,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 4566,
+					"stride": 3,
+					"offset": 18264,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 3044,
+					"stride": 2,
+					"offset": 36528,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 3044,
+					"stride": 2,
+					"offset": 48704,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 3468,
+					"stride": 1,
+					"offset": 60880,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 74752,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

@@ -1,0 +1,153 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Tables bonetto",
+			"id": "6b092da8-a360-4300-8d33-7214b6d79b4b",
+			"uniqueId": 127,
+			"type": "Mesh",
+			"position": [
+				-7.553569,
+				0,
+				6.54073429
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"parentId": "59185c1e-ff2d-48af-ac4e-32e5e1de9d0a",
+			"isUnIndexed": false,
+			"geometryId": "81d6382f-36d0-4204-9426-bcbcfee121b8",
+			"subMeshes": null,
+			"materialId": "88880207-06b3-4875-94ed-373dc83ec6be",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 7.5535688400268555,
+					"13": 0,
+					"14": -6.54073429107666,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "c39ab456-a7b6-4f92-9a9d-05d9018f8f04",
+					"name": "Tables bonetto",
+					"sceneFileName": "espilit.babylon"
+				},
+				"isPickable": true
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/81d6382f-36d0-4204-9426-bcbcfee121b8.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				18.145030975341797,
+				3.15754771232605,
+				7.349011421203613
+			],
+			"boundingBoxMinimum": [
+				-3.1661667823791504,
+				0.0004959999932907522,
+				-8.18184757232666
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 78798,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 78798,
+					"stride": 3,
+					"offset": 315192,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 52532,
+					"stride": 2,
+					"offset": 630384,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 52532,
+					"stride": 2,
+					"offset": 840512,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 65136,
+					"stride": 1,
+					"offset": 1050640,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 11,
+					"stride": 5,
+					"offset": 1311184,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

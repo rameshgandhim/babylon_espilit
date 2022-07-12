@@ -1,0 +1,16 @@
+{
+	"name": "Divers meubles 2",
+	"id": "ce43ffb5-6437-4387-84ed-388d5ddc9320",
+	"tags": null,
+	"materials": [
+		"adb3170d-7687-4f79-bb37-3f2e4e6507ad",
+		"8520eb69-aaae-4f2e-bcdd-89e871e44d39"
+	],
+	"metadata": {
+		"originalSourceFile": {
+			"id": "1f1546a0-8841-4752-9564-f243c940e5d0",
+			"name": "Divers meubles 2",
+			"sceneFileName": "espilit.babylon"
+		}
+	}
+}

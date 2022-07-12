@@ -1,0 +1,113 @@
+{
+	"tags": null,
+	"alpha": -1.5,
+	"beta": 1.5,
+	"radius": 2.5,
+	"target": [
+		0,
+		1,
+		0
+	],
+	"inertialAlphaOffset": 0,
+	"inertialBetaOffset": 0,
+	"inertialRadiusOffset": 0,
+	"lowerBetaLimit": 0.01,
+	"upperBetaLimit": 3.1315926535897933,
+	"inertialPanningX": 0,
+	"inertialPanningY": 0,
+	"pinchToPanMaxDistance": 20,
+	"panningOriginTarget": [
+		0,
+		0,
+		0
+	],
+	"panningInertia": 1,
+	"zoomOnFactor": 1,
+	"targetScreenOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"allowUpsideDown": true,
+	"useInputToRestoreState": true,
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"speed": 2,
+	"position": [
+		0.17640001007483402,
+		1.1768430041692572,
+		-2.487490620750557
+	],
+	"upVector": [
+		0,
+		1,
+		0
+	],
+	"fov": 0.8,
+	"minZ": 0.5,
+	"maxZ": 5.115493959179409e+52,
+	"inertia": 0.5,
+	"mode": 0,
+	"layerMask": 268435455,
+	"fovMode": 0,
+	"cameraRigMode": 0,
+	"name": "playerCamera",
+	"id": "91825414-4cde-42f5-9ca8-f2e9ab33c6cd",
+	"state": "",
+	"metadata": {
+		"script": {
+			"name": "src/scenes/scene/playerCamera.ts"
+		}
+	},
+	"type": "ArcRotateCamera",
+	"parentId": "1b236235-cefe-4275-8c3f-70cc68aca7dd",
+	"inputsmgr": {
+		"ArcRotateCameraKeyboardMoveInput": {
+			"tags": null,
+			"keysUp": [
+				38
+			],
+			"keysDown": [
+				40
+			],
+			"keysLeft": [
+				37
+			],
+			"keysRight": [
+				39
+			],
+			"keysReset": [
+				220
+			],
+			"panningSensibility": 50,
+			"zoomingSensibility": 25,
+			"useAltToZoom": true,
+			"angularSpeed": 0.01
+		},
+		"ArcRotateCameraMouseWheelInput": {
+			"tags": null,
+			"wheelPrecision": 3,
+			"wheelDeltaPercentage": 0
+		},
+		"ArcRotateCameraPointersInput": {
+			"tags": null,
+			"buttons": [
+				0,
+				1,
+				2
+			],
+			"angularSensibilityX": 1000,
+			"angularSensibilityY": 1000,
+			"pinchPrecision": 12,
+			"pinchDeltaPercentage": 0,
+			"useNaturalPinchZoom": false,
+			"panningSensibility": 1000,
+			"multiTouchPanning": true,
+			"multiTouchPanAndZoom": true
+		}
+	},
+	"animations": [],
+	"ranges": []
+}

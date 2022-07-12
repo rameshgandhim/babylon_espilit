@@ -1,0 +1,145 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Etiquette1",
+			"id": "f53200e7-b6f1-4a34-9bed-d9971c1f5605",
+			"uniqueId": 66,
+			"type": "Mesh",
+			"position": [
+				11.9807415,
+				5.29269743,
+				13.2548246
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 0,
+				"1": 0,
+				"2": 1.0146738290786743,
+				"3": 0,
+				"4": 1.0146738290786743,
+				"5": 0,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0.9292421936988831,
+				"10": 0,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"parentId": "59185c1e-ff2d-48af-ac4e-32e5e1de9d0a",
+			"isUnIndexed": false,
+			"geometryId": "906f6515-849a-4e9c-9d69-6f1b355d61d4",
+			"subMeshes": null,
+			"materialId": "1d311ccb-e79b-4af1-9492-89fa6bb9a870",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 0,
+					"1": 0.9855383634567261,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 0,
+					"6": 1.0761457681655884,
+					"7": 0,
+					"8": 0.9855383634567261,
+					"9": 0,
+					"10": 0,
+					"11": 0,
+					"12": -13.063138008117676,
+					"13": -11.807480812072754,
+					"14": -5.695713520050049,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "3dd9322a-21c7-4bae-ab7f-9dd99155134d",
+					"name": "Etiquette1",
+					"sceneFileName": "espilit.babylon"
+				},
+				"isPickable": true
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/906f6515-849a-4e9c-9d69-6f1b355d61d4.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.24864615499973297,
+				0.048683423548936844,
+				-1.8933637142181396
+			],
+			"boundingBoxMinimum": [
+				0.167722687125206,
+				-0.05978500470519066,
+				-1.991264820098877
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 42,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 42,
+					"stride": 3,
+					"offset": 168,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 28,
+					"stride": 2,
+					"offset": 336,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 36,
+					"stride": 1,
+					"offset": 448,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 592,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

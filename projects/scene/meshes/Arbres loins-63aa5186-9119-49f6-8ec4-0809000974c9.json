@@ -1,0 +1,150 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Arbres loins",
+			"id": "63aa5186-9119-49f6-8ec4-0809000974c9",
+			"uniqueId": 23,
+			"type": "Mesh",
+			"position": [
+				-1.41447,
+				-1.74951935,
+				5.68545628
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"parentId": "59185c1e-ff2d-48af-ac4e-32e5e1de9d0a",
+			"isUnIndexed": false,
+			"geometryId": "5f468394-2c00-4d8e-82bd-ad55bbbfcdff",
+			"subMeshes": null,
+			"materialId": "ff8991d8-0d07-4494-8e68-e50b53214361",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 1.4144699573516846,
+					"13": 1.7495193481445312,
+					"14": -5.685456275939941,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "c600d20f-0dd9-43e0-a50f-d5a130599a31",
+					"name": "Arbres loins",
+					"sceneFileName": "espilit.babylon"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/5f468394-2c00-4d8e-82bd-ad55bbbfcdff.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				112.36956787109375,
+				18.511743545532227,
+				112.36957550048828
+			],
+			"boundingBoxMinimum": [
+				-112.36956787109375,
+				-7.555830478668213,
+				-112.36956787109375
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 522,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 522,
+					"stride": 3,
+					"offset": 2088,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 348,
+					"stride": 2,
+					"offset": 4176,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 504,
+					"stride": 1,
+					"offset": 5568,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 7584,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

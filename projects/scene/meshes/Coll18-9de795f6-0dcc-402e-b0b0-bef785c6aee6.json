@@ -1,0 +1,145 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Coll18",
+			"id": "9de795f6-0dcc-402e-b0b0-bef785c6aee6",
+			"uniqueId": 33,
+			"type": "Mesh",
+			"position": [
+				-0.114509344,
+				6.58551168,
+				-3.18583822
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 0.4999999701976776,
+				"1": -5.646608514098261e-9,
+				"2": 0.866025447845459,
+				"3": 0,
+				"4": -0.8660253882408142,
+				"5": -9.319435889665328e-8,
+				"6": 0.4999999701976776,
+				"7": 0,
+				"8": 8.563227993363398e-8,
+				"9": -1,
+				"10": -4.470348358154297e-8,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": false,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"parentId": "59185c1e-ff2d-48af-ac4e-32e5e1de9d0a",
+			"isUnIndexed": false,
+			"geometryId": "5f73be9a-214e-4d12-9676-eb2e0f586b67",
+			"subMeshes": null,
+			"materialId": "6e9a0be4-1188-425b-9cf3-65e3e7000059",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 0.4999999701976776,
+					"1": -0.866025447845459,
+					"2": 7.788538169961612e-8,
+					"3": 0,
+					"4": 4.101785577859118e-9,
+					"5": -9.651147792055781e-8,
+					"6": -1,
+					"7": 0,
+					"8": 0.8660253882408142,
+					"9": 0.4999999701976776,
+					"10": -5.148728376980216e-8,
+					"11": 0,
+					"12": 2.8162715435028076,
+					"13": 1.4937516450881958,
+					"14": 6.585511684417725,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "42bb9445-d4f0-45fe-be6d-b0df2fa84d5e",
+					"name": "Coll18",
+					"sceneFileName": "espilit.babylon"
+				},
+				"isPickable": true
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/5f73be9a-214e-4d12-9676-eb2e0f586b67.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				7.104337215423584,
+				0.16194771230220795,
+				15.07369327545166
+			],
+			"boundingBoxMinimum": [
+				5.6333088874816895,
+				-0.8118900656700134,
+				-15.073691368103027
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 24,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 24,
+					"stride": 3,
+					"offset": 96,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 16,
+					"stride": 2,
+					"offset": 192,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 36,
+					"stride": 1,
+					"offset": 256,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 400,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

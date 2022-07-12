@@ -1,0 +1,162 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Sol loin",
+			"id": "c2696e89-f93e-4685-8d5e-48ef3e9e7dcc",
+			"uniqueId": 13,
+			"type": "Mesh",
+			"position": [
+				-6.2905426,
+				-0.123135641,
+				3.11598969
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"parentId": "59185c1e-ff2d-48af-ac4e-32e5e1de9d0a",
+			"isUnIndexed": false,
+			"geometryId": "c7f2fd54-cd5d-4d81-92fd-b039488b3bc9",
+			"subMeshes": null,
+			"materialId": "fb6e24a6-6695-418b-980a-827aac4beaad",
+			"physicsMass": 0,
+			"physicsFriction": 0.2,
+			"physicsRestitution": 0.2,
+			"physicsImpostor": 2,
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 6.2905426025390625,
+					"13": 0.12313564121723175,
+					"14": -3.1159896850585938,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "6d999f03-a9c1-4ce4-b8e3-55db7d480f9f",
+					"name": "Sol loin",
+					"sceneFileName": "espilit.babylon"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/c7f2fd54-cd5d-4d81-92fd-b039488b3bc9.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				135.569580078125,
+				0,
+				134.02101135253906
+			],
+			"boundingBoxMinimum": [
+				-135.569580078125,
+				0,
+				-134.02101135253906
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 435,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 435,
+					"stride": 3,
+					"offset": 1740,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 290,
+					"stride": 2,
+					"offset": 3480,
+					"dataType": 1
+				},
+				"colorsAttrDesc": {
+					"count": 580,
+					"stride": 4,
+					"offset": 4640,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 768,
+					"stride": 1,
+					"offset": 6960,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 10032,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"colors": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

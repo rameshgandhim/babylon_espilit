@@ -1,0 +1,153 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Chaises cHROME",
+			"id": "a212ef84-a680-4901-bfab-7202decd13e9",
+			"uniqueId": 124,
+			"type": "Mesh",
+			"position": [
+				9.08039,
+				0.513504744,
+				-1.16740942
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 1.7484555314695172e-7,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": -1.7484555314695172e-7,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"parentId": "59185c1e-ff2d-48af-ac4e-32e5e1de9d0a",
+			"isUnIndexed": false,
+			"geometryId": "9466489f-c2cb-4372-9991-c23ec5f4984b",
+			"subMeshes": null,
+			"materialId": "6bbd7540-f67c-4c60-922c-195cedd3aee6",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": -1.7484555314695172e-7,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 1.7484555314695172e-7,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": -9.080389976501465,
+					"13": -0.5135047435760498,
+					"14": 1.167410969734192,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "1efd920f-0541-4d4f-b2d8-a8d70bd96553",
+					"name": "Chaises cHROME",
+					"sceneFileName": "espilit.babylon"
+				},
+				"isPickable": true
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/9466489f-c2cb-4372-9991-c23ec5f4984b.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				1.9626013040542603,
+				3.114029884338379,
+				15.492095947265625
+			],
+			"boundingBoxMinimum": [
+				-20.923328399658203,
+				-0.5125868320465088,
+				-0.402243435382843
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 70308,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 70308,
+					"stride": 3,
+					"offset": 281232,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 46872,
+					"stride": 2,
+					"offset": 562464,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 46872,
+					"stride": 2,
+					"offset": 749952,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 23436,
+					"stride": 1,
+					"offset": 937440,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 101,
+					"stride": 5,
+					"offset": 1031184,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

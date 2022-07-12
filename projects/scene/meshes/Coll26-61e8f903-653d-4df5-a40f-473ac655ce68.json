@@ -1,0 +1,145 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Coll26",
+			"id": "61e8f903-653d-4df5-a40f-473ac655ce68",
+			"uniqueId": 48,
+			"type": "Mesh",
+			"position": [
+				13.2804785,
+				6.58551168,
+				-3.90218878
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 0,
+				"1": 0,
+				"2": 1,
+				"3": 0,
+				"4": -1,
+				"5": 0,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": -1,
+				"10": 0,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": false,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"parentId": "59185c1e-ff2d-48af-ac4e-32e5e1de9d0a",
+			"isUnIndexed": false,
+			"geometryId": "a7bfde7e-1340-48b4-91f2-e7ed32dce11e",
+			"subMeshes": null,
+			"materialId": "6e9a0be4-1188-425b-9cf3-65e3e7000059",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 0,
+					"1": -1,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 0,
+					"6": -1,
+					"7": 0,
+					"8": 1,
+					"9": 0,
+					"10": 0,
+					"11": 0,
+					"12": 3.902188777923584,
+					"13": 13.280478477478027,
+					"14": 6.585511684417725,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "8978c578-57a2-4a5d-8e3d-fa1579690992",
+					"name": "Coll26",
+					"sceneFileName": "espilit.babylon"
+				},
+				"isPickable": true
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/a7bfde7e-1340-48b4-91f2-e7ed32dce11e.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				10.399863243103027,
+				4.365849018096924,
+				9.004152297973633
+			],
+			"boundingBoxMinimum": [
+				5.571110725402832,
+				0.21402738988399506,
+				3.627498149871826
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 63,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 63,
+					"stride": 3,
+					"offset": 252,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 42,
+					"stride": 2,
+					"offset": 504,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 114,
+					"stride": 1,
+					"offset": 672,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 1128,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

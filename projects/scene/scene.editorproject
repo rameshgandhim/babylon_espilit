@@ -1,0 +1,1130 @@
+{
+	"filesList": [
+		"arbresmassif.png",
+		"Blanc.jpg",
+		"Blanc.png",
+		"Booklet.jpg",
+		"Booklet.png",
+		"BouteilleBlanc.jpg",
+		"BouteilleBlanc.png",
+		"BouteilleRouge.jpg",
+		"BouteilleRouge.png",
+		"ChaisesLightingMap.jpg",
+		"ChaisesLightingMap.png",
+		"ChaisesSpecMap.png",
+		"Chassis table CorbuLightingMap.jpg",
+		"Chassis table CorbuLightingMap.png",
+		"Ciel.jpg",
+		"Ciel.png",
+		"concrete3.jpg",
+		"concrete3.png",
+		"concrete5.jpg",
+		"concrete5.png",
+		"Cuir.jpg",
+		"Cuir.png",
+		"Depliant.jpg",
+		"Depliant.png",
+		"DepliantLightingMap.jpg",
+		"DepliantLightingMap.png",
+		"Expo1.jpg",
+		"Expo1.png",
+		"Expo2.jpg",
+		"Expo2.png",
+		"GravierDiff.jpg",
+		"GravierDiff.png",
+		"herbe2.jpg",
+		"herbe2.png",
+		"Line01CompMap.jpg",
+		"Line01CompMap.png",
+		"Line01LightingMap.jpg",
+		"Line01LightingMap.png",
+		"Metal NoirLightingMap.jpg",
+		"Metal NoirLightingMap.png",
+		"MursLightingMap.jpg",
+		"MursLightingMap.png",
+		"Murs pansLightingMap.jpg",
+		"Murs pansLightingMap.png",
+		"Plaques Faux PlafondsLightingMap.jpg",
+		"Plaques Faux PlafondsLightingMap.png",
+		"PlaquesPlafond.jpg",
+		"PlaquesPlafond.png",
+		"Refcubenoire_nx.jpg",
+		"Refcubenoire_ny.jpg",
+		"Refcubenoire_nz.jpg",
+		"Refcubenoire_px.jpg",
+		"Refcubenoire_py.jpg",
+		"Refcubenoire_pz.jpg",
+		"Refcube_nx.jpg",
+		"Refcube_ny.jpg",
+		"Refcube_nz.jpg",
+		"Refcube_px.jpg",
+		"Refcube_py.jpg",
+		"Refcube_pz.jpg",
+		"Refsol.jpg",
+		"Refsol.png",
+		"Rochers.jpg",
+		"Rochers.png",
+		"Rouge.jpg",
+		"Rouge.png",
+		"Sol.jpg",
+		"Sol.png",
+		"SolsLightingMap.jpg",
+		"SolsLightingMap.png",
+		"Spec.png",
+		"T33LightingMap.jpg",
+		"T33LightingMap.png",
+		"TableauxDiffuseMap.jpg",
+		"TableauxDiffuseMap.png",
+		"Tables bonettoLightingMap.jpg",
+		"Tables bonettoLightingMap.png",
+		"Tapis.png",
+		"Toile.jpg",
+		"Toile.png",
+		"Tree.png",
+		"VerreBump.jpg",
+		"VerreBump.png"
+	],
+	"cameras": [
+		"playerCamera-91825414-4cde-42f5-9ca8-f2e9ab33c6cd.json"
+	],
+	"materials": [
+		{
+			"bindedMeshes": [
+				"c2696e89-f93e-4685-8d5e-48ef3e9e7dcc"
+			],
+			"json": "Grass-fb6e24a6-6695-418b-980a-827aac4beaad.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"71ee5308-9df6-419b-8a34-ce7cc05ede8e"
+			],
+			"json": "Metal Noir-3b99e21f-d6ab-4264-ad67-36fa1a58d556.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "sky-b2346078-7465-4c63-8877-44b542584898.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"947dd0cf-9f06-4a23-8b75-c635295c4f8f"
+			],
+			"json": "Faux plafonds-e3082808-63bd-41cf-9ff7-3a224c8b644f.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "ground-44ce4d7a-5718-4025-a141-272ee6387673.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"6ba961dc-fed6-436b-97b4-a025539e3c7c"
+			],
+			"json": "BétonMurs2-4dfd810c-f180-4de2-a404-654e4cba07ad.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"56db7cb1-7a28-4b31-9f28-1e3204428e9e"
+			],
+			"json": "Divers meubles-ed60739e-4976-44ea-8fb8-e6cccc71f01f.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"0498993e-2c7c-4071-884e-c8e6fb881998"
+			],
+			"json": "Verre2-07ef5e19-21a2-4fad-8bce-c4c534bb0f90.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"900979fc-f50e-49e1-8dd0-8e9c9343fe84",
+				"9f217f80-890b-40cb-a738-5bb9c1670c13"
+			],
+			"json": "Verre1-af247674-9579-47db-a4d4-1900c9844adb.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "cube-03bdd37e-fe54-4095-a392-0de62b0de089.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"00eedc2a-a7dd-42c9-ba0f-43b6c05b5b2a",
+				"4c24f5df-ecd4-489e-9574-6b5328d3543a",
+				"635fdf65-9068-439d-9df8-8e99019e7e2d"
+			],
+			"json": "Lum Faux plafonds-ba4259ca-1588-43a2-b938-50e8414c6ef8.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"3daed236-3a0f-43fe-ad5a-5e3932e01540"
+			],
+			"json": "BétonMurs-156ccaba-0f9f-46fe-a5ac-12892783bce7.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"6b092da8-a360-4300-8d33-7214b6d79b4b"
+			],
+			"json": "Tables bonetto-88880207-06b3-4875-94ed-373dc83ec6be.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"54f39b29-da22-491d-b02d-c11e2ac94efc"
+			],
+			"json": "Divers meubles chrome-7243d986-5480-496e-835f-a6b8d46e42b9.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"1ec90225-4671-417a-854f-517571613e15"
+			],
+			"json": "Plastique faux plafond-eb1c6237-709f-4cc3-9bca-f858872e4843.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"55c2c9db-a912-4dd7-8e26-71cb3bb2d9bf"
+			],
+			"json": "Cailloux-6ad4c36d-f325-4403-8dab-bc9d5a65ed60.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"22613fd0-d8c3-42ae-a5be-50c69f9b0984"
+			],
+			"json": "FT32-6465b02f-7e3a-407d-a178-ab9c95f12815.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"47703ef8-ce8e-4c00-87da-751a625d6277"
+			],
+			"json": "ToilesFaux plafonds-a73d4980-9cb5-44bb-b308-282c69d643ac.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"a212ef84-a680-4901-bfab-7202decd13e9"
+			],
+			"json": "ChaiseChrome-6bbd7540-f67c-4c60-922c-195cedd3aee6.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"1eab7a49-853c-45b0-8170-2a789cd9d08c"
+			],
+			"json": "Gravier-bdd51ae1-2f33-4dbe-bd0a-0bfc8105574a.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"2682e605-04e7-4f9b-a02b-b6a3da67db0a"
+			],
+			"json": "Panneau2-316be5c1-8108-498e-85ec-915dc256fe55.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"83968e98-16b0-4a6f-87ba-8bcd34f73ced",
+				"59ccfe67-fc9c-4aa9-b33f-2fe305bf29a2",
+				"692f7fb8-838e-4c38-b0e4-56c462d9b6c7"
+			],
+			"json": "Chaise Coussins-cc6aa147-dd5d-4abb-a0d3-f67c9e9fa174.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"7a02d276-a25f-4025-9137-16da87692cbd"
+			],
+			"json": "Tranche verre-fa69ae98-3067-4a70-bbbf-0d605c93d0a6.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"fc7939a7-8616-41ec-875b-8590ec64485c"
+			],
+			"json": "Bac-2e68664c-478c-4a49-915b-41b03395dead.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"331f8075-cd4d-453a-b3e8-134891276ff0",
+				"7f2652cf-5519-4d9b-ae9a-44deaf09d046",
+				"51a1dd2b-e83e-46bf-9fb9-e2ef0e4a5f80",
+				"27c3a6d2-6766-40c7-a3dc-32a0980b0d0f",
+				"1da53dd2-d3ee-461d-bdc0-7c2f8784bcf5",
+				"418347c1-0808-491a-a1b0-3925252a49b4",
+				"3d394629-fa93-41b7-ad95-d736cabc17a1",
+				"300a6691-3ac1-40fa-88bd-92d15abca43e",
+				"795d39a2-90fe-448d-9d21-5ecb655204ba",
+				"9de795f6-0dcc-402e-b0b0-bef785c6aee6",
+				"17e2e07a-ab7d-47e7-ba99-0816e0dcba88",
+				"eed89051-9eab-4524-a7be-445f537f6bc4",
+				"6211e772-5561-4883-8191-9ef479633a93",
+				"c9afda4d-08d7-488d-b432-5aa84a4535d5",
+				"472f070d-073d-46f4-b367-19bcfbd98ba7",
+				"a7829d33-ddf4-4c1e-b2f5-ba99f596b6ba",
+				"86a9e63a-8f83-47c0-8730-ee6f0e0a03eb",
+				"a7503034-a9ba-4d1d-a678-eb4540cbca7d",
+				"135cfe91-7222-4aed-b81e-22e496bbbfbb",
+				"9e37a94f-931c-44ff-902d-672dc579fdd5",
+				"7ff68a10-8174-48ec-9cb9-b66795865aaf",
+				"91ee4ee5-9c6a-4c7c-818c-41a0ef391eb4",
+				"6c558070-6351-48b8-a238-dbaaf5da6f45",
+				"61e8f903-653d-4df5-a40f-473ac655ce68",
+				"b88256fb-0af4-434a-a610-a878dea92a26",
+				"cebd2782-6186-43a0-9452-232a2ee08ed9",
+				"139e22c3-f786-4cad-8637-6fe96ae28506",
+				"d9620aa9-405f-4b9a-97bc-573183e7f4e5",
+				"e16fdd7f-aa4d-4c7d-b134-f5faa0a33bbe",
+				"1bbc4411-486f-48c9-9b9f-24b9e9ec0306",
+				"055c99b2-53e0-4ac6-b7c9-159a8b17f402",
+				"d7d2d745-be03-4315-ae30-39f2b9eb36b3",
+				"1c10c240-a067-4095-82c3-0105468c1459",
+				"6a181bc8-1afd-4a8a-b7f7-645021b52881"
+			],
+			"json": "Coll-6e9a0be4-1188-425b-9cf3-65e3e7000059.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"e93039bb-ef2f-46c9-85fd-2b41764e9f3e"
+			],
+			"json": "Panneau1-2d9b6356-0ff2-4823-a6bd-f37cf594995f.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"f4d9f291-281e-4eeb-9636-f836d5675b4a"
+			],
+			"json": "Tapis-53bf29c4-b78d-4ca8-bc82-a9d7fd357fd0.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"017be0dd-abbf-4a58-a62f-26b0b11b768f"
+			],
+			"json": "Tree-989df256-b7a5-48be-afd5-b58eecbdc860.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "Material #1-8520eb69-aaae-4f2e-bcdd-89e871e44d39.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"c4c79203-e2ca-41fc-b474-36eaff9fa8a6"
+			],
+			"json": "Bouteille Blanc-ebf2b3b7-e492-4e4e-8d04-9a8c24b75dd0.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"c4880360-b200-4605-ab1f-bc690f943c4b"
+			],
+			"json": "Booklet-dbbda773-18f7-43b3-b3d3-11874d32a636.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "FT2-ef17d07e-0e97-46eb-88bc-cef82ba50f4e.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "ft1A-c8afdd6a-f47a-4971-8321-2d2a73f0b70c.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "FT3-750b435e-c5cf-4893-aa4a-63e575456595.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"f53200e7-b6f1-4a34-9bed-d9971c1f5605"
+			],
+			"json": "Blanc-1d311ccb-e79b-4af1-9492-89fa6bb9a870.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"ac7098d6-fc88-403f-abf6-64990acb16a0"
+			],
+			"json": "Bouteille Rouge-5b332fa6-766d-47c7-baec-cbbcf9881930.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "Alpha_Joints_MAT-e1a073db-b574-411d-832c-b4566f361a1a.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"59de8a15-52a3-4df1-9b76-faf409e814e1"
+			],
+			"json": "Depliant-f460af63-84f5-4206-bbbb-076768a00e11.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"bb9ffd6c-469c-461f-82c0-0bb9fe53f04f"
+			],
+			"json": "CIEL-4e35efe4-5696-460b-81b0-ed7c3f36a7fd.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "Alpha_Surface_MAT-8dcea1a0-a746-4421-843d-47d0847e9c7b.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"d1ea19e8-7195-414e-b301-ba48d8d6f0cd"
+			],
+			"json": "Sols-770a68a8-39d3-46d6-845c-dc7bbedc7515.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"63aa5186-9119-49f6-8ec4-0809000974c9"
+			],
+			"json": "Arbresloins2-ff8991d8-0d07-4494-8e68-e50b53214361.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"ee0484f0-1952-480e-8296-730e7e24311c"
+			],
+			"json": "Rouge-eeb98da8-1e2d-458f-8f4f-6c7c0cc00a18.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "Material #0-adb3170d-7687-4f79-bb37-3f2e4e6507ad.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"3ce49aaf-7b16-4a05-9641-5f93b07d76d0",
+				"795c98b5-8e55-4e97-b552-492cd120835e",
+				"51dd7508-e20f-48ce-beb9-c8dc5d7f69ab",
+				"0af0829c-3c8d-452a-8450-e0c4e7fba816",
+				"9ae9eb55-ad6d-44b7-a230-d4c0a65e584f",
+				"6c7caac7-ead0-4c52-ba48-b573d1222cfd",
+				"b85c925e-7a99-4697-a806-111b155aedf6",
+				"a8781686-b100-46c3-a657-439b0f601560",
+				"3868258f-8e77-4a24-84ea-a7eae7df0221",
+				"6bb73399-6c51-4bf2-b0c2-700808cb4db3",
+				"6b1573f8-919a-4d16-abb0-4b116b759e47",
+				"db692d39-e2ac-497f-bbd9-7eca333e2b91",
+				"1d30bcfd-b25c-4bb4-9e8c-2241af004909",
+				"fc84223f-95a3-4a81-be2b-c63e13247a4d",
+				"75a8f7c3-8fa1-4208-a8ae-3d16dd9dbba9",
+				"8efa666c-662c-4371-b0c8-cec488c7eef7",
+				"38750d12-4b90-4150-9d66-0ff11aae34fe",
+				"475b99a8-0549-4bf8-bfb6-bf504bfb852c",
+				"3b2370ca-91ff-497a-a5be-5dc19d967bd6",
+				"f8eab548-e03d-4411-a37d-9b3076f629b9",
+				"f0715ffd-bc2f-4ba4-827e-74cc7dc1eb16",
+				"0d565201-60eb-4afc-a81a-9170769649ef",
+				"4766a925-021a-4f0c-aed9-ee5b08210cd1",
+				"2bff4293-7f5f-49cc-84fe-a08f2ae48529",
+				"7682d769-e136-4440-97b5-bd2f8a36a725",
+				"a210ffac-973b-4440-a652-c4f46ea78c52",
+				"f56d6864-0ea9-49f0-8036-52d82ae7a693",
+				"ddb70b15-c817-4591-9323-20e3c2ebc771",
+				"1d4b102e-9b26-41ac-8733-089a7b508941",
+				"4eb091ac-6d07-49fb-b3e4-7dfbd6a52363",
+				"2be4c87b-20a2-439f-ae95-534ac2809ddb",
+				"b6a96c85-22db-4a34-b193-a1926ccb85b4",
+				"98d7657c-eb76-4e40-96b7-06f4d320c76b",
+				"05aa516b-80df-4101-b825-17cc617733b0",
+				"d23561ad-d727-4e1a-8f07-082a6a930a8b",
+				"3d9091ae-f102-4729-99ad-002c33e0833c",
+				"ceeeba70-c9d4-46dc-a074-98c0d2126679",
+				"5c3a2d02-5437-4bfb-b632-e9f1ef20d658",
+				"60d23d26-aa3b-46ab-9c0a-9e2f8f56dfa3",
+				"dc4c28ca-5d3a-4320-b1e5-ff15f95732cb",
+				"f10c4b92-24f8-4892-b445-4089035afd18",
+				"bc6520de-f0dd-43e1-875e-efd30b1e7176",
+				"0cd8bb29-4cc8-4bac-8fc4-d30e513fb585",
+				"c92308c1-2ee9-43ae-85fb-a83ede73932d",
+				"11c7b19b-d311-420a-a2eb-9a352708d045"
+			],
+			"json": "Standard_5-b5461a0f-9d45-4c7b-84c3-28194b760459.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "Alpha_Surface_MATAlpha_Joints_MAT-af02d2cc-d74b-42f9-9ffe-bf2f5255f57b.json",
+			"isMultiMaterial": true
+		},
+		{
+			"bindedMeshes": [
+				"999838ec-c7aa-4c41-ba6c-a366573e8e44"
+			],
+			"json": "Divers meubles 2-ce43ffb5-6437-4387-84ed-388d5ddc9320.json",
+			"isMultiMaterial": true
+		},
+		{
+			"bindedMeshes": [
+				"47a5f387-6207-4834-8db2-46d1485b66cf"
+			],
+			"json": "Fond tableaux-e321b606-7850-492c-b809-90468daa056b.json",
+			"isMultiMaterial": true
+		}
+	],
+	"textures": [
+		"herbe2.jpg-327.json",
+		"Refcubenoire-330.json",
+		"Metal NoirLightingMap.jpg-329.json",
+		"PlaquesPlafond.jpg-332.json",
+		"Plaques Faux PlafondsLightingMap.jpg-333.json",
+		"concrete3.jpg-337.json",
+		"Murs pansLightingMap.jpg-338.json",
+		"Refcube-340.json",
+		"Spec.png-341.json",
+		"VerreBump.jpg-342.json",
+		"Line01CompMap.jpg-344.json",
+		"concrete5.jpg-349.json",
+		"MursLightingMap.jpg-350.json",
+		"Tables bonettoLightingMap.jpg-352.json",
+		"Refsol.jpg-358.json",
+		"Chassis table CorbuLightingMap.jpg-357.json",
+		"Line01LightingMap.jpg-354.json",
+		"Toile.jpg-360.json",
+		"ChaisesLightingMap.jpg-364.json",
+		"GravierDiff.jpg-366.json",
+		"Expo2.jpg-368.json",
+		"Cuir.jpg-370.json",
+		"ChaisesSpecMap.png-371.json",
+		"Expo1.jpg-376.json",
+		"Tapis.png-381.json",
+		"Tree.png-378.json",
+		"Booklet.jpg-385.json",
+		"Blanc.jpg-390.json",
+		"BouteilleRouge.jpg-394.json",
+		"Depliant.jpg-396.json",
+		"Rochers.jpg-362.json",
+		"BouteilleBlanc.jpg-383.json",
+		"DepliantLightingMap.jpg-397.json",
+		"T33LightingMap.jpg-387.json",
+		"Ciel.jpg-399.json",
+		"Sol.jpg-401.json",
+		"SolsLightingMap.jpg-402.json",
+		"arbresmassif.png-405.json",
+		"TableauxDiffuseMap.jpg-410.json",
+		"Rouge.jpg-407.json",
+		"Refcube-414.json",
+		"Refcubenoire-415.json",
+		"Refcubenoire-416.json",
+		"ChaisesLightingMap.jpg-417.json",
+		"Line01LightingMap.jpg-419.json",
+		"Spec.png-420.json",
+		"Refcube-418.json",
+		"Line01LightingMap.jpg-421.json",
+		"Line01LightingMap.jpg-423.json",
+		"Refcubenoire-422.json",
+		"Refcube-424.json",
+		"Refcube-425.json",
+		"Line01LightingMap.jpg-426.json",
+		"concrete3.jpg-427.json",
+		"Refcube-428.json",
+		"Refcubenoire-429.json",
+		"Line01LightingMap.jpg-430.json",
+		"Refsol.jpg-431.json",
+		"Blanc.jpg-432.json",
+		"T33LightingMap.jpg-433.json",
+		"Booklet.png-435.json",
+		"Blanc.png-434.json",
+		"Refcube-436.json",
+		"T33LightingMap.jpg-437.json",
+		"BouteilleBlanc.jpg-438.json",
+		"Refcubenoire-439.json",
+		"Booklet.jpg-440.json",
+		"BouteilleBlanc.png-441.json",
+		"ChaisesLightingMap.png-442.json",
+		"Ciel.jpg-443.json",
+		"BouteilleRouge.png-444.json",
+		"ChaisesLightingMap.jpg-445.json",
+		"arbresmassif.png-446.json",
+		"Chassis table CorbuLightingMap.png-447.json",
+		"concrete3.png-448.json",
+		"Ciel.png-450.json",
+		"Chassis table CorbuLightingMap.jpg-449.json",
+		"ChaisesSpecMap.png-451.json",
+		"concrete5.jpg-452.json",
+		"concrete3.jpg-453.json",
+		"Cuir.png-454.json",
+		"Cuir.jpg-455.json",
+		"Depliant.jpg-456.json",
+		"concrete5.png-457.json",
+		"Expo1.jpg-458.json",
+		"Depliant.png-459.json",
+		"DepliantLightingMap.png-460.json",
+		"GravierDiff.jpg-461.json",
+		"Refsol.jpg-462.json",
+		"Expo2.jpg-463.json",
+		"Expo2.png-464.json",
+		"herbe2.png-465.json",
+		"DepliantLightingMap.jpg-466.json",
+		"Expo1.png-467.json",
+		"GravierDiff.png-468.json",
+		"herbe2.jpg-469.json",
+		"Line01CompMap.png-470.json",
+		"Plaques Faux PlafondsLightingMap.jpg-473.json",
+		"Metal NoirLightingMap.jpg-472.json",
+		"MursLightingMap.png-474.json",
+		"Line01LightingMap.png-471.json",
+		"Refcube-475.json",
+		"Line01LightingMap.jpg-476.json",
+		"Refcubenoire_nx.jpg-477.json",
+		"Plaques Faux PlafondsLightingMap.png-478.json",
+		"Refcubenoire_py.jpg-479.json",
+		"Murs pansLightingMap.png-480.json",
+		"PlaquesPlafond.png-481.json",
+		"Metal NoirLightingMap.png-482.json",
+		"Refcubenoire_px.jpg-483.json",
+		"PlaquesPlafond.jpg-484.json",
+		"Refcubenoire_nz.jpg-485.json",
+		"Refcube_py.jpg-486.json",
+		"Refcube_nz.jpg-487.json",
+		"Refcube_nx.jpg-488.json",
+		"Refcubenoire_ny.jpg-489.json",
+		"Rochers.jpg-490.json",
+		"Refcube_ny.jpg-491.json",
+		"Refcube_px.jpg-493.json",
+		"Refsol.jpg-492.json",
+		"Refcube_pz.jpg-494.json",
+		"Rouge.jpg-495.json",
+		"Refsol.png-496.json",
+		"Rochers.png-497.json",
+		"SolsLightingMap.jpg-498.json",
+		"Sol.png-499.json",
+		"Rouge.png-501.json",
+		"SolsLightingMap.png-500.json",
+		"TableauxDiffuseMap.png-502.json",
+		"T33LightingMap.jpg-503.json",
+		"TableauxDiffuseMap.jpg-504.json",
+		"Sol.jpg-505.json",
+		"Tables bonettoLightingMap.png-506.json",
+		"Spec.png-507.json",
+		"T33LightingMap.png-508.json",
+		"Tapis.png-509.json",
+		"VerreBump.png-510.json",
+		"Line01CompMap.jpg-512.json",
+		"Toile.jpg-513.json",
+		"Tables bonettoLightingMap.jpg-511.json",
+		"Tree.png-514.json",
+		"BouteilleRouge.jpg-515.json",
+		"VerreBump.jpg-516.json",
+		"Murs pansLightingMap.jpg-517.json",
+		"Toile.png-518.json",
+		"Spec.png-519.json",
+		"MursLightingMap.jpg-520.json",
+		"Refcubenoire_pz.jpg-521.json"
+	],
+	"meshes": [
+		"Plaques Faux Plafonds-947dd0cf-9f06-4a23-8b75-c635295c4f8f.json",
+		"Panneau1-e93039bb-ef2f-46c9-85fd-2b41764e9f3e.json",
+		"Sol loin-c2696e89-f93e-4685-8d5e-48ef3e9e7dcc.json",
+		"Panneau2-2682e605-04e7-4f9b-a02b-b6a3da67db0a.json",
+		"Plastique faux plafond-1ec90225-4671-417a-854f-517571613e15.json",
+		"Gravier-1eab7a49-853c-45b0-8170-2a789cd9d08c.json",
+		"Bac-fc7939a7-8616-41ec-875b-8590ec64485c.json",
+		"Murs-646eb5c5-066c-4c6f-b5b2-211c704e2a98.json",
+		"Tree02-017be0dd-abbf-4a58-a62f-26b0b11b768f.json",
+		"Coll06-331f8075-cd4d-453a-b3e8-134891276ff0.json",
+		"Verre table corbu-900979fc-f50e-49e1-8dd0-8e9c9343fe84.json",
+		"Coll02-51a1dd2b-e83e-46bf-9fb9-e2ef0e4a5f80.json",
+		"Coll03-7f2652cf-5519-4d9b-ae9a-44deaf09d046.json",
+		"Coll01-27c3a6d2-6766-40c7-a3dc-32a0980b0d0f.json",
+		"Arbres loins-63aa5186-9119-49f6-8ec4-0809000974c9.json",
+		"Coll11-1da53dd2-d3ee-461d-bdc0-7c2f8784bcf5.json",
+		"Voiles-47703ef8-ce8e-4c00-87da-751a625d6277.json",
+		"Coll10-418347c1-0808-491a-a1b0-3925252a49b4.json",
+		"Coll04-3d394629-fa93-41b7-ad95-d736cabc17a1.json",
+		"Bordure ext-3daed236-3a0f-43fe-ad5a-5e3932e01540.json",
+		"Verres-0498993e-2c7c-4071-884e-c8e6fb881998.json",
+		"Coll09-300a6691-3ac1-40fa-88bd-92d15abca43e.json",
+		"Coll08-795d39a2-90fe-448d-9d21-5ecb655204ba.json",
+		"Trancheverre-7a02d276-a25f-4025-9137-16da87692cbd.json",
+		"Divers meubles-56db7cb1-7a28-4b31-9f28-1e3204428e9e.json",
+		"Coll18-9de795f6-0dcc-402e-b0b0-bef785c6aee6.json",
+		"Coll16-eed89051-9eab-4524-a7be-445f537f6bc4.json",
+		"Coll07-17e2e07a-ab7d-47e7-ba99-0816e0dcba88.json",
+		"Coll22-6211e772-5561-4883-8191-9ef479633a93.json",
+		"Coll24-c9afda4d-08d7-488d-b432-5aa84a4535d5.json",
+		"Coll12-472f070d-073d-46f4-b367-19bcfbd98ba7.json",
+		"Murs pans-6ba961dc-fed6-436b-97b4-a025539e3c7c.json",
+		"Coll05-a7829d33-ddf4-4c1e-b2f5-ba99f596b6ba.json",
+		"Coll23-a7503034-a9ba-4d1d-a678-eb4540cbca7d.json",
+		"Coll17-86a9e63a-8f83-47c0-8730-ee6f0e0a03eb.json",
+		"Coll13-135cfe91-7222-4aed-b81e-22e496bbbfbb.json",
+		"Coll21-9e37a94f-931c-44ff-902d-672dc579fdd5.json",
+		"Coll20-7ff68a10-8174-48ec-9cb9-b66795865aaf.json",
+		"Coll15-91ee4ee5-9c6a-4c7c-818c-41a0ef391eb4.json",
+		"Coll27-6c558070-6351-48b8-a238-dbaaf5da6f45.json",
+		"Coll26-61e8f903-653d-4df5-a40f-473ac655ce68.json",
+		"Coll30-b88256fb-0af4-434a-a610-a878dea92a26.json",
+		"Coll29-cebd2782-6186-43a0-9452-232a2ee08ed9.json",
+		"Coll25-139e22c3-f786-4cad-8637-6fe96ae28506.json",
+		"Coll14-d9620aa9-405f-4b9a-97bc-573183e7f4e5.json",
+		"Camera01.Target-97b599ea-3426-4849-b62f-9ee278dbb6d9.json",
+		"Cailloux-55c2c9db-a912-4dd7-8e26-71cb3bb2d9bf.json",
+		"T46-3ce49aaf-7b16-4a05-9641-5f93b07d76d0.json",
+		"Etiquette02-ee0484f0-1952-480e-8296-730e7e24311c.json",
+		"T1-795c98b5-8e55-4e97-b552-492cd120835e.json",
+		"Booklet04-c4880360-b200-4605-ab1f-bc690f943c4b.json",
+		"T5-51dd7508-e20f-48ce-beb9-c8dc5d7f69ab.json",
+		"Coll33-1bbc4411-486f-48c9-9b9f-24b9e9ec0306.json",
+		"Coll31-e16fdd7f-aa4d-4c7d-b134-f5faa0a33bbe.json",
+		"T11-0af0829c-3c8d-452a-8450-e0c4e7fba816.json",
+		"Tapism-f4d9f291-281e-4eeb-9636-f836d5675b4a.json",
+		"Bouteille1-ac7098d6-fc88-403f-abf6-64990acb16a0.json",
+		"Chassis table Corbu-22613fd0-d8c3-42ae-a5be-50c69f9b0984.json",
+		"Etiquette1-f53200e7-b6f1-4a34-9bed-d9971c1f5605.json",
+		"Bandes lum-00eedc2a-a7dd-42c9-ba0f-43b6c05b5b2a.json",
+		"T13-9ae9eb55-ad6d-44b7-a230-d4c0a65e584f.json",
+		"Coll34-055c99b2-53e0-4ac6-b7c9-159a8b17f402.json",
+		"Coll19-d7d2d745-be03-4315-ae30-39f2b9eb36b3.json",
+		"T2-6c7caac7-ead0-4c52-ba48-b573d1222cfd.json",
+		"T14-b85c925e-7a99-4697-a806-111b155aedf6.json",
+		"T16-a8781686-b100-46c3-a657-439b0f601560.json",
+		"T4-3868258f-8e77-4a24-84ea-a7eae7df0221.json",
+		"T9-6bb73399-6c51-4bf2-b0c2-700808cb4db3.json",
+		"T19-db692d39-e2ac-497f-bbd9-7eca333e2b91.json",
+		"T15-6b1573f8-919a-4d16-abb0-4b116b759e47.json",
+		"T10-1d30bcfd-b25c-4bb4-9e8c-2241af004909.json",
+		"T8-fc84223f-95a3-4a81-be2b-c63e13247a4d.json",
+		"T20-8efa666c-662c-4371-b0c8-cec488c7eef7.json",
+		"T3-75a8f7c3-8fa1-4208-a8ae-3d16dd9dbba9.json",
+		"T12-38750d12-4b90-4150-9d66-0ff11aae34fe.json",
+		"GeoSphere01-bb9ffd6c-469c-461f-82c0-0bb9fe53f04f.json",
+		"T21-475b99a8-0549-4bf8-bfb6-bf504bfb852c.json",
+		"T17-3b2370ca-91ff-497a-a5be-5dc19d967bd6.json",
+		"Camera04.Target-194e4143-5620-464c-a93b-b67ee47fbf96.json",
+		"T25-f8eab548-e03d-4411-a37d-9b3076f629b9.json",
+		"T32-f0715ffd-bc2f-4ba4-827e-74cc7dc1eb16.json",
+		"T28-0d565201-60eb-4afc-a81a-9170769649ef.json",
+		"T37-4766a925-021a-4f0c-aed9-ee5b08210cd1.json",
+		"T22-2bff4293-7f5f-49cc-84fe-a08f2ae48529.json",
+		"T7-7682d769-e136-4440-97b5-bd2f8a36a725.json",
+		"T30-a210ffac-973b-4440-a652-c4f46ea78c52.json",
+		"T38-f56d6864-0ea9-49f0-8036-52d82ae7a693.json",
+		"T35-ddb70b15-c817-4591-9323-20e3c2ebc771.json",
+		"T24-1d4b102e-9b26-41ac-8733-089a7b508941.json",
+		"T36-4eb091ac-6d07-49fb-b3e4-7dfbd6a52363.json",
+		"T42-2be4c87b-20a2-439f-ae95-534ac2809ddb.json",
+		"Depliant-59de8a15-52a3-4df1-9b76-faf409e814e1.json",
+		"Bouteille02-c4c79203-e2ca-41fc-b474-36eaff9fa8a6.json",
+		"T31-b6a96c85-22db-4a34-b193-a1926ccb85b4.json",
+		"T45-05aa516b-80df-4101-b825-17cc617733b0.json",
+		"T40-98d7657c-eb76-4e40-96b7-06f4d320c76b.json",
+		"T26-d23561ad-d727-4e1a-8f07-082a6a930a8b.json",
+		"Sols-d1ea19e8-7195-414e-b301-ba48d8d6f0cd.json",
+		"T6-3d9091ae-f102-4729-99ad-002c33e0833c.json",
+		"T41-ceeeba70-c9d4-46dc-a074-98c0d2126679.json",
+		"T39-5c3a2d02-5437-4bfb-b632-e9f1ef20d658.json",
+		"T27-60d23d26-aa3b-46ab-9c0a-9e2f8f56dfa3.json",
+		"T29-dc4c28ca-5d3a-4320-b1e5-ff15f95732cb.json",
+		"T43-f10c4b92-24f8-4892-b445-4089035afd18.json",
+		"T18-bc6520de-f0dd-43e1-875e-efd30b1e7176.json",
+		"T23-0cd8bb29-4cc8-4bac-8fc4-d30e513fb585.json",
+		"T44-c92308c1-2ee9-43ae-85fb-a83ede73932d.json",
+		"T34-11c7b19b-d311-420a-a2eb-9a352708d045.json",
+		"Coll32-6a181bc8-1afd-4a8a-b7f7-645021b52881.json",
+		"Line02-9f217f80-890b-40cb-a738-5bb9c1670c13.json",
+		"T33-47a5f387-6207-4834-8db2-46d1485b66cf.json",
+		"Text02-4c24f5df-ecd4-489e-9574-6b5328d3543a.json",
+		"Divers meubles chrome-54f39b29-da22-491d-b02d-c11e2ac94efc.json",
+		"Coll28-1c10c240-a067-4095-82c3-0105468c1459.json",
+		"Divers meubles 2-999838ec-c7aa-4c41-ba6c-a366573e8e44.json",
+		"Text01-635fdf65-9068-439d-9df8-8e99019e7e2d.json",
+		"Metal Noir-71ee5308-9df6-419b-8a34-ce7cc05ede8e.json",
+		"Chaises coussins3-692f7fb8-838e-4c38-b0e4-56c462d9b6c7.json",
+		"Chaises coussins2-59ccfe67-fc9c-4aa9-b33f-2fe305bf29a2.json",
+		"Chaises cHROME-a212ef84-a680-4901-bfab-7202decd13e9.json",
+		"Chaises coussins-83968e98-16b0-4a6f-87ba-8bcd34f73ced.json",
+		"Tables bonetto-6b092da8-a360-4300-8d33-7214b6d79b4b.json",
+		"player-f0b07c51-7833-4075-8c1f-42aa868c5eb3.json"
+	],
+	"transformNodes": [
+		"camRoot-8dc09656-4ef8-40c1-acc4-6320ef54cd7f.json",
+		"yTilt-1b236235-cefe-4275-8c3f-70cc68aca7dd.json",
+		"player-889dca5d-50b7-4737-a23f-1ebdb3d1f0f7.json",
+		"Room-59185c1e-ff2d-48af-ac4e-32e5e1de9d0a.json"
+	],
+	"particleSystems": [],
+	"lights": [
+		{
+			"json": "sun-a76adafc-c695-43b9-bc2a-a5b1a01a6419.json",
+			"shadowGenerator": "sun-a76adafc-c695-43b9-bc2a-a5b1a01a6419.json"
+		}
+	],
+	"sounds": [],
+	"morphTargetManagers": [],
+	"scene": {
+		"autoClear": false,
+		"clearColor": [
+			0.2,
+			0.2,
+			0.3,
+			1
+		],
+		"ambientColor": [
+			1,
+			1,
+			1
+		],
+		"gravity": [
+			0,
+			-9.807,
+			0
+		],
+		"collisionsEnabled": true,
+		"fogEnabled": true,
+		"physicsEnabled": true,
+		"physicsGravity": [
+			0,
+			-9.81,
+			0
+		],
+		"physicsEngine": "CannonJSPlugin",
+		"imageProcessingConfiguration": {
+			"tags": null,
+			"colorCurves": {
+				"tags": null,
+				"_globalHue": 200,
+				"_globalDensity": 80,
+				"_globalSaturation": 80,
+				"_globalExposure": 0,
+				"_highlightsHue": 20,
+				"_highlightsDensity": 80,
+				"_highlightsSaturation": -80,
+				"_highlightsExposure": 0,
+				"_midtonesHue": 30,
+				"_midtonesDensity": 0,
+				"_midtonesSaturation": 0,
+				"_midtonesExposure": 0
+			},
+			"_colorCurvesEnabled": false,
+			"_colorGradingEnabled": false,
+			"_colorGradingWithGreenDepth": true,
+			"_colorGradingBGR": true,
+			"_exposure": 1,
+			"_toneMappingEnabled": false,
+			"_toneMappingType": 0,
+			"_contrast": 1,
+			"vignetteStretch": 0,
+			"vignetteCentreX": 0,
+			"vignetteCentreY": 0,
+			"vignetteWeight": 1.5,
+			"vignetteColor": [
+				0,
+				0,
+				0,
+				0
+			],
+			"vignetteCameraFov": 0.5,
+			"_vignetteBlendMode": 0,
+			"_vignetteEnabled": false,
+			"_applyByPostProcess": true,
+			"_isEnabled": true
+		},
+		"animations": [],
+		"postProcessesEnabled": true,
+		"metadata": {
+			"script": {
+				"name": "None"
+			},
+			"postProcesses": {
+				"ssao": {
+					"enabled": true,
+					"json": {
+						"tags": null,
+						"totalStrength": 2,
+						"maxZ": 1000,
+						"minZAspect": 0.2,
+						"samples": 32,
+						"textureSamples": 1,
+						"_ratio": {
+							"ssaoRatio": 0.5,
+							"blurRatio": 0.5
+						},
+						"expensiveBlur": false,
+						"radius": 1,
+						"base": 0,
+						"_name": "ssao",
+						"customType": "SSAO2RenderingPipeline"
+					}
+				},
+				"screenSpaceReflections": {
+					"enabled": false
+				},
+				"default": {
+					"enabled": true,
+					"json": {
+						"tags": null,
+						"sharpenEnabled": false,
+						"bloomKernel": 64,
+						"_bloomWeight": 0.15,
+						"_bloomThreshold": 0.9,
+						"_hdr": {},
+						"bloomWeight": 0.15,
+						"bloomThreshold": 0.9,
+						"bloomScale": 0.5,
+						"bloomEnabled": false,
+						"depthOfFieldEnabled": false,
+						"depthOfFieldBlurLevel": 0,
+						"fxaaEnabled": true,
+						"samples": 4,
+						"imageProcessingEnabled": true,
+						"glowLayerEnabled": false,
+						"chromaticAberrationEnabled": false,
+						"grainEnabled": false,
+						"_name": "default",
+						"customType": "DefaultRenderingPipeline"
+					}
+				},
+				"motionBlur": {
+					"enabled": false
+				}
+			}
+		},
+		"environmentIntensity": 1,
+		"shadowGenerators": [
+			{
+				"className": "CascadedShadowGenerator",
+				"lightId": "a76adafc-c695-43b9-bc2a-a5b1a01a6419",
+				"id": "a76adafc-c695-43b9-bc2a-a5b1a01a6419",
+				"mapSize": 1024,
+				"forceBackFacesOnly": false,
+				"darkness": 0,
+				"transparencyShadow": false,
+				"frustumEdgeFalloff": 0,
+				"bias": 0.00005,
+				"normalBias": 0,
+				"usePercentageCloserFiltering": true,
+				"useContactHardeningShadow": false,
+				"contactHardeningLightSizeUVRatio": 0.1,
+				"filteringQuality": 0,
+				"useExponentialShadowMap": false,
+				"useBlurExponentialShadowMap": false,
+				"useCloseExponentialShadowMap": false,
+				"useBlurCloseExponentialShadowMap": false,
+				"usePoissonSampling": false,
+				"depthScale": 50,
+				"blurBoxOffset": 1,
+				"blurKernel": 1,
+				"blurScale": 2,
+				"useKernelBlur": false,
+				"renderList": [],
+				"numCascades": 4,
+				"debug": false,
+				"stabilizeCascades": false,
+				"lambda": 1,
+				"cascadeBlendPercentage": 0.1,
+				"depthClamp": true,
+				"autoCalcDepthBounds": false,
+				"shadowMaxZ": 10000,
+				"penumbraDarkness": 1,
+				"freezeShadowCastersBoundingInfo": false,
+				"minDistance": 0,
+				"maxDistance": 1
+			}
+		],
+		"sounds": []
+	},
+	"assets": {
+		"meshes": [
+			"espilit.babylon",
+			"Espilit.binary.babylon",
+			"Espilit.incremental.babylon",
+			"dummy3.babylon",
+			"player.babylon"
+		],
+		"prefabs": [],
+		"graphs": []
+	},
+	"project": {
+		"camera": {
+			"tags": "modified",
+			"alpha": -2.54040128733793,
+			"beta": 1.0023701823770275,
+			"radius": 7.723084358919565,
+			"target": [
+				0,
+				0,
+				0
+			],
+			"inertialAlphaOffset": 0,
+			"inertialBetaOffset": 0,
+			"inertialRadiusOffset": 0,
+			"lowerBetaLimit": 0.01,
+			"upperBetaLimit": 3.1315926535897933,
+			"inertialPanningX": 0,
+			"inertialPanningY": 0,
+			"pinchToPanMaxDistance": 20,
+			"panningOriginTarget": [
+				0,
+				0,
+				0
+			],
+			"panningInertia": 0.9,
+			"zoomOnFactor": 1,
+			"targetScreenOffset": {
+				"x": 0,
+				"y": 0
+			},
+			"allowUpsideDown": true,
+			"useInputToRestoreState": true,
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"speed": 2,
+			"position": [
+				-5.367416589265562,
+				4.15738535501724,
+				-3.681442405111487
+			],
+			"upVector": [
+				0,
+				1,
+				0
+			],
+			"fov": 0.8,
+			"minZ": 1,
+			"maxZ": 75937.5,
+			"inertia": 0.9,
+			"mode": 0,
+			"layerMask": 268435455,
+			"fovMode": 0,
+			"cameraRigMode": 0,
+			"name": "Editor Camera",
+			"id": "f3684fb1-6ae4-4cc0-8e94-ba283d86ec04",
+			"state": "",
+			"metadata": {
+				"script": {
+					"name": "None"
+				},
+				"detached": false
+			},
+			"type": "ArcRotateCamera",
+			"inputsmgr": {
+				"ArcRotateCameraKeyboardMoveInput": {
+					"tags": null,
+					"keysUp": [
+						38
+					],
+					"keysDown": [
+						40
+					],
+					"keysLeft": [
+						37
+					],
+					"keysRight": [
+						39
+					],
+					"keysReset": [
+						220
+					],
+					"panningSensibility": 50,
+					"zoomingSensibility": 25,
+					"useAltToZoom": true,
+					"angularSpeed": 0.01
+				},
+				"ArcRotateCameraMouseWheelInput": {
+					"tags": null,
+					"wheelPrecision": 30,
+					"wheelDeltaPercentage": 0
+				},
+				"ArcRotateCameraPointersInput": {
+					"tags": null,
+					"buttons": [
+						0,
+						1,
+						2
+					],
+					"angularSensibilityX": 1000,
+					"angularSensibilityY": 1000,
+					"pinchPrecision": 12,
+					"pinchDeltaPercentage": 0,
+					"useNaturalPinchZoom": false,
+					"panningSensibility": 129.48194704685278,
+					"multiTouchPanning": true,
+					"multiTouchPanAndZoom": true
+				}
+			},
+			"animations": [],
+			"ranges": []
+		}
+	},
+	"postProcesses": {
+		"ssao": {
+			"enabled": true,
+			"json": {
+				"tags": null,
+				"totalStrength": 2,
+				"maxZ": 1000,
+				"minZAspect": 0.2,
+				"samples": 32,
+				"textureSamples": 1,
+				"_ratio": {
+					"ssaoRatio": 0.5,
+					"blurRatio": 0.5
+				},
+				"expensiveBlur": false,
+				"radius": 1,
+				"base": 0,
+				"_name": "ssao",
+				"customType": "SSAO2RenderingPipeline"
+			}
+		},
+		"screenSpaceReflections": {
+			"enabled": false
+		},
+		"default": {
+			"enabled": true,
+			"json": {
+				"tags": null,
+				"sharpenEnabled": false,
+				"bloomKernel": 64,
+				"_bloomWeight": 0.15,
+				"_bloomThreshold": 0.9,
+				"_hdr": {},
+				"bloomWeight": 0.15,
+				"bloomThreshold": 0.9,
+				"bloomScale": 0.5,
+				"bloomEnabled": false,
+				"depthOfFieldEnabled": false,
+				"depthOfFieldBlurLevel": 0,
+				"fxaaEnabled": true,
+				"samples": 4,
+				"imageProcessingEnabled": true,
+				"glowLayerEnabled": false,
+				"chromaticAberrationEnabled": false,
+				"grainEnabled": false,
+				"_name": "default",
+				"customType": "DefaultRenderingPipeline"
+			}
+		},
+		"motionBlur": {
+			"enabled": false
+		}
+	},
+	"physicsEnabled": true
+}

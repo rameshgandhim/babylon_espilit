@@ -1,0 +1,153 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Metal Noir",
+			"id": "71ee5308-9df6-419b-8a34-ce7cc05ede8e",
+			"uniqueId": 125,
+			"type": "Mesh",
+			"position": [
+				-4.907053,
+				3.55131865,
+				9.461941
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"parentId": "59185c1e-ff2d-48af-ac4e-32e5e1de9d0a",
+			"isUnIndexed": false,
+			"geometryId": "79e18ce8-678b-4f31-8fd0-06b845a41934",
+			"subMeshes": null,
+			"materialId": "3b99e21f-d6ab-4264-ad67-36fa1a58d556",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 4.907052993774414,
+					"13": -3.551318645477295,
+					"14": -9.46194076538086,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "c94429ce-24d6-44a6-be62-c1df57b3f98e",
+					"name": "Metal Noir",
+					"sceneFileName": "espilit.babylon"
+				},
+				"isPickable": true
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/79e18ce8-678b-4f31-8fd0-06b845a41934.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				18.27857208251953,
+				2.049490451812744,
+				5.198714733123779
+			],
+			"boundingBoxMinimum": [
+				-7.234548091888428,
+				-3.6044328212738037,
+				-13.350299835205078
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 43620,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 43620,
+					"stride": 3,
+					"offset": 174480,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 29080,
+					"stride": 2,
+					"offset": 348960,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 29080,
+					"stride": 2,
+					"offset": 465280,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 28356,
+					"stride": 1,
+					"offset": 581600,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 695024,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

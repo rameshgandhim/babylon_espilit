@@ -1,0 +1,158 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Murs pans",
+			"id": "6ba961dc-fed6-436b-97b4-a025539e3c7c",
+			"uniqueId": 37,
+			"type": "Mesh",
+			"position": [
+				-9.746304,
+				0,
+				5.35571766
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"parentId": "59185c1e-ff2d-48af-ac4e-32e5e1de9d0a",
+			"isUnIndexed": false,
+			"geometryId": "ffad055d-1971-412b-958d-0f065b6043c7",
+			"subMeshes": null,
+			"materialId": "4dfd810c-f180-4de2-a404-654e4cba07ad",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 9.74630355834961,
+					"13": 0,
+					"14": -5.355717658996582,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "a5fb554e-7a96-4bc9-977e-b400045ce85a",
+					"name": "Murs pans",
+					"sceneFileName": "espilit.babylon"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/ffad055d-1971-412b-958d-0f065b6043c7.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				23.249435424804688,
+				5.856267929077148,
+				9.415060043334961
+			],
+			"boundingBoxMinimum": [
+				-2.497873306274414,
+				-0.00001538582546345424,
+				-9.415060043334961
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 2691,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 2691,
+					"stride": 3,
+					"offset": 10764,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 1794,
+					"stride": 2,
+					"offset": 21528,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 1794,
+					"stride": 2,
+					"offset": 28704,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 1725,
+					"stride": 1,
+					"offset": 35880,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 42780,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

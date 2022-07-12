@@ -1,0 +1,158 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Plastique faux plafond",
+			"id": "1ec90225-4671-417a-854f-517571613e15",
+			"uniqueId": 11,
+			"type": "Mesh",
+			"position": [
+				-9.746304,
+				0,
+				5.35571766
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"parentId": "59185c1e-ff2d-48af-ac4e-32e5e1de9d0a",
+			"isUnIndexed": false,
+			"geometryId": "61f39996-308c-4a96-b3fc-20b3007ed3fb",
+			"subMeshes": null,
+			"materialId": "eb1c6237-709f-4cc3-9bca-f858872e4843",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 9.74630355834961,
+					"13": 0,
+					"14": -5.355717658996582,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "329c9a3a-ddab-4aac-aa27-dda9d9a9add2",
+					"name": "Plastique faux plafond",
+					"sceneFileName": "espilit.babylon"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/61f39996-308c-4a96-b3fc-20b3007ed3fb.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				22.250286102294922,
+				5.606267929077148,
+				8.415910720825195
+			],
+			"boundingBoxMinimum": [
+				3.11273455619812,
+				5.257350921630859,
+				-8.415910720825195
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 66,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 66,
+					"stride": 3,
+					"offset": 264,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 44,
+					"stride": 2,
+					"offset": 528,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 44,
+					"stride": 2,
+					"offset": 704,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 60,
+					"stride": 1,
+					"offset": 880,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 1120,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}
